@@ -1,0 +1,753 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-gareus-valladolid",
+ "source_site": "https://www.hotelgareus.com/",
+ "source_read_at": "2026-10-29T05:26:00+01:00",
+ "note": "Respuestas solo con datos publicados en hotelgareus.com. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "cuantas habitaciones",
+     "que habitaciones",
+     "tipos de habitacion",
+     "standard",
+     "executive",
+     "junior",
+     "suite",
+     "supletoria",
+     "twin",
+     "queen",
+     "estrellas"
+    ],
+    "ca": [
+     "quantes habitacions",
+     "quines habitacions",
+     "tipus d habitacio",
+     "standard",
+     "executive",
+     "junior",
+     "suite",
+     "supletori",
+     "twin",
+     "queen",
+     "estrelles"
+    ],
+    "en": [
+     "how many rooms",
+     "what rooms",
+     "room types",
+     "standard",
+     "executive",
+     "junior",
+     "suite",
+     "extra bed",
+     "twin",
+     "queen",
+     "stars"
+    ],
+    "fr": [
+     "combien de chambres",
+     "quelles chambres",
+     "types de chambre",
+     "standard",
+     "executive",
+     "junior",
+     "suite",
+     "lit supplementaire",
+     "twin",
+     "queen",
+     "etoiles"
+    ]
+   },
+   "a": {
+    "es": "Se presenta como Boutique Hotel Gareus de cuatro estrellas. Tiene habitaciones Standard (cama Queen Size), Executive Queen Bed (más espaciosas, con cama Queen Size), Executive Twin Bed (dos camas de 1.00 metros) y Junior Suite (dos estancias). En las Executive se puede incluir una cama supletoria.",
+    "ca": "Es presenta com a Boutique Hotel Gareus de quatre estrelles. Té habitacions Standard (llit Queen Size), Executive Queen Bed (més espaioses, amb llit Queen Size), Executive Twin Bed (dos llits d'1.00 metres) i Junior Suite (dues estades). A les Executive es pot incloure un llit supletori.",
+    "en": "It presents itself as the four-star Boutique Hotel Gareus. It has Standard rooms (queen-size bed), Executive Queen Bed (more spacious, with a queen-size bed), Executive Twin Bed (two beds of 1.00 metres) and Junior Suite (two areas). In the Executive rooms an extra bed can be added.",
+    "fr": "Il se présente comme le Boutique Hotel Gareus quatre étoiles. Il propose des chambres Standard (lit Queen Size), Executive Queen Bed (plus spacieuses, avec lit Queen Size), Executive Twin Bed (deux lits de 1.00 mètres) et Junior Suite (deux espaces). Dans les Executive, on peut ajouter un lit supplémentaire."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelgareus.com/contacto/",
+     "quote": "Boutique Hotel Gareus**** Calle Colmenares"
+    },
+    {
+     "url": "https://www.hotelgareus.com/habitacion-standard/",
+     "quote": "dotadas de cama Queen Size"
+    },
+    {
+     "url": "https://www.hotelgareus.com/habitacion-executive-queen-bed/",
+     "quote": "estancias más espaciosas, en los que podemos incluir una cama supletoria"
+    },
+    {
+     "url": "https://www.hotelgareus.com/habitacion-executive-twin-bed/",
+     "quote": "habitaciones con dos camas de 1.00 metros, en los que podemos incluir una cama supletoria"
+    },
+    {
+     "url": "https://www.hotelgareus.com/habitacion-junior-suite/",
+     "quote": "dos estancias totalmente diferenciadas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "equipamiento",
+   "keys": {
+    "es": [
+     "equipamiento",
+     "minibar",
+     "caja fuerte",
+     "aire acondicionado",
+     "climatizador",
+     " tv ",
+     "banera",
+     "ducha",
+     "lavabo"
+    ],
+    "ca": [
+     "equipament",
+     "minibar",
+     "caixa forta",
+     "aire condicionat",
+     "climatitzador",
+     " tv ",
+     "banyera",
+     "dutxa",
+     "lavabo"
+    ],
+    "en": [
+     "equipment",
+     "minibar",
+     "safe",
+     "air conditioning",
+     "climate control",
+     " tv ",
+     "bathtub",
+     "shower",
+     "washbasin"
+    ],
+    "fr": [
+     "equipement",
+     "minibar",
+     "coffre",
+     "climatisation",
+     "regulateur",
+     " tv ",
+     "baignoire",
+     "douche",
+     "vasque"
+    ]
+   },
+   "a": {
+    "es": "Las habitaciones tienen TV de pantalla plana, wifi gratuita, aire acondicionado y climatizador con regulador individual, caja fuerte, minibar y baño completo con bañera o ducha.",
+    "ca": "Les habitacions tenen TV de pantalla plana, wifi gratuïta, aire condicionat i climatitzador amb regulador individual, caixa forta, minibar i bany complet amb banyera o dutxa.",
+    "en": "The rooms have a flat-screen TV, free wifi, air conditioning and climate control with an individual regulator, a safe, a minibar and a fully equipped bathroom with bath or shower.",
+    "fr": "Les chambres disposent d'une TV à écran plat, du wifi gratuit, de la climatisation avec régulateur individuel, d'un coffre-fort, d'un minibar et d'une salle de bain complète avec baignoire ou douche."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelgareus.com/habitacion-standard/",
+     "quote": "TV con pantalla plana, wifi gratuita, aire acondicionado y climatizador con regulador individual, caja fuerte, minibar y baño completamente equipado, con bañera o ducha"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "servicios y wifi",
+   "keys": {
+    "es": [
+     "wifi",
+     "wi fi",
+     "internet",
+     "servicios",
+     "recepcion",
+     "biblioteca",
+     "climatizacion"
+    ],
+    "ca": [
+     "wifi",
+     "wi fi",
+     "internet",
+     "serveis",
+     "recepcio",
+     "biblioteca",
+     "climatitzacio"
+    ],
+    "en": [
+     "wifi",
+     "wi fi",
+     "internet",
+     "services",
+     "reception",
+     "library",
+     "air conditioned"
+    ],
+    "fr": [
+     "wifi",
+     "wi fi",
+     "internet",
+     "services",
+     "reception",
+     "bibliotheque",
+     "climatise"
+    ]
+   },
+   "a": {
+    "es": "Hay wifi gratuita en todo el hotel, recepción abierta 24 horas, internet corner, biblioteca, climatización en todo el inmueble e información turística, cultural y de transportes.",
+    "ca": "Hi ha wifi gratuïta a tot l'hotel, recepció oberta 24 hores, internet corner, biblioteca, climatització a tot l'immoble i informació turística, cultural i de transports.",
+    "en": "There is free wifi throughout the hotel, reception open 24 hours, an internet corner, a library, climate control throughout the building and tourist, cultural and transport information.",
+    "fr": "Il y a le wifi gratuit dans tout l'hôtel, une réception ouverte 24 heures, un internet corner, une bibliothèque, la climatisation dans tout le bâtiment et des informations touristiques, culturelles et de transport."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelgareus.com/servicios/",
+     "quote": "Zona wifi Gratuita en todo el Hotel"
+    },
+    {
+     "url": "https://www.hotelgareus.com/servicios/",
+     "quote": "Internet corner Biblioteca Climatización en todo el inmueble Recepción abierta 24 horas Información turística, cultural y de transportes"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "accesibilidad",
+   "keys": {
+    "es": [
+     "adaptad",
+     "accesib",
+     "movilidad",
+     "discapacit",
+     "silla de ruedas"
+    ],
+    "ca": [
+     "adaptad",
+     "accessib",
+     "mobilitat",
+     "discapacit",
+     "cadira de rodes"
+    ],
+    "en": [
+     "adapted",
+     "accessib",
+     "mobility",
+     "disabled",
+     "disabilit",
+     "wheelchair"
+    ],
+    "fr": [
+     "adaptee",
+     "accessib",
+     "mobilite",
+     "handicap",
+     "fauteuil roulant"
+    ]
+   },
+   "a": {
+    "es": "Sí: según su web, el hotel está totalmente adaptado para personas con discapacidad y cuenta con una habitación completamente adaptada.",
+    "ca": "Sí: segons la seva web, l'hotel està totalment adaptat per a persones amb discapacitat i disposa d'una habitació completament adaptada.",
+    "en": "Yes: according to its website, the hotel is fully adapted for people with disabilities and has one fully adapted room.",
+    "fr": "Oui : selon son site, l'hôtel est entièrement adapté aux personnes handicapées et dispose d'une chambre entièrement adaptée."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelgareus.com/hotel/",
+     "quote": "El Hotel está totalmente adaptado para discapacitados, y cuenta con una habitación completamente adaptada."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparcamiento",
+     "aparcar",
+     "garaje",
+     "coche",
+     "montacoches",
+     "cctv"
+    ],
+    "ca": [
+     "parking",
+     "parquing",
+     "aparcament",
+     "aparcar",
+     "garatge",
+     "cotxe",
+     "montacotxes",
+     "cctv"
+    ],
+    "en": [
+     "parking",
+     "car park",
+     "garage",
+     "car lift",
+     "cctv"
+    ],
+    "fr": [
+     "parking",
+     "stationnement",
+     "garage",
+     "monte voitures",
+     "cctv"
+    ]
+   },
+   "a": {
+    "es": "Tiene parking privado (no se reserva), con acceso mediante un montacoches de amplias dimensiones con acceso directo al hotel, y está vigilado por CCTV.",
+    "ca": "Té pàrquing privat (no es reserva), amb accés mitjançant un montacotxes de grans dimensions amb accés directe a l'hotel, i està vigilat per CCTV.",
+    "en": "It has private parking (it cannot be reserved), reached by a large car lift with direct access to the hotel, and it is monitored by CCTV.",
+    "fr": "Il dispose d'un parking privé (non réservable), accessible par un monte-voitures de grandes dimensions avec accès direct à l'hôtel, et il est surveillé par CCTV."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelgareus.com/",
+     "quote": "Disponemos de parking privado (No se reserva) El acceso se realiza mediante un montacoches de amplias dimensiones con acceso directo al Hotel."
+    },
+    {
+     "url": "https://www.hotelgareus.com/servicios/",
+     "quote": "Parking propio vigilado por CCTV"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "ubicación",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "como llegar",
+     "mapa",
+     "estacion",
+     "aeropuerto",
+     "plaza mayor",
+     "plaza espana",
+     "campo grande",
+     "cerca"
+    ],
+    "ca": [
+     " on ",
+     "adreca",
+     "ubicacio",
+     "com arribar",
+     "mapa",
+     "estacio",
+     "aeroport",
+     "plaza mayor",
+     "plaza espana",
+     "campo grande",
+     "a prop"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "how to get",
+     "map",
+     "station",
+     "airport",
+     "plaza mayor",
+     "plaza espana",
+     "campo grande",
+     "near"
+    ],
+    "fr": [
+     "ou est",
+     "adresse",
+     "situe",
+     "comment arriver",
+     "plan",
+     "gare",
+     "aeroport",
+     "plaza mayor",
+     "plaza espana",
+     "campo grande",
+     "proche"
+    ]
+   },
+   "a": {
+    "es": "Está en la calle Colmenares 2, 47004 Valladolid. A pie: Campo Grande, 2 minutos; Plaza España, 3; estación del AVE, 5; Plaza Mayor, 10. El aeropuerto de Villanubla está a 14 km (20 minutos en automóvil).",
+    "ca": "És al carrer Colmenares 2, 47004 Valladolid. A peu: Campo Grande, 2 minuts; Plaza España, 3; estació de l'AVE, 5; Plaza Mayor, 10. L'aeroport de Villanubla és a 14 km (20 minuts en automòbil).",
+    "en": "It is at Calle Colmenares 2, 47004 Valladolid. On foot: Campo Grande, 2 minutes; Plaza España, 3; AVE station, 5; Plaza Mayor, 10. Villanubla airport is 14 km away (20 minutes by car).",
+    "fr": "Il se trouve calle Colmenares 2, 47004 Valladolid. À pied : Campo Grande, 2 minutes ; Plaza España, 3 ; gare AVE, 5 ; Plaza Mayor, 10. L'aéroport de Villanubla est à 14 km (20 minutes en voiture)."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelgareus.com/ubicacion/",
+     "quote": "Dirección Calle Colmenares nº2 47004 - Valladolid"
+    },
+    {
+     "url": "https://www.hotelgareus.com/ubicacion/",
+     "quote": "Plaza Mayor: 300 metros (10 minutos) - Plaza España: 100 metros (3 minutos) - Campo Grande: 50 metros (2 minutos) - Estación de trenes AVE: 200 metros (5 minutos)"
+    },
+    {
+     "url": "https://www.hotelgareus.com/ubicacion/",
+     "quote": "Aeropuerto Villanubla: 14 Kilómetros (20 minutos en automóvil)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "bar y restaurante",
+   "keys": {
+    "es": [
+     " bar ",
+     "cocktail",
+     "coctel",
+     "restaurante",
+     "cenar",
+     "comer",
+     "lounge",
+     "carta"
+    ],
+    "ca": [
+     " bar ",
+     "cocktail",
+     "coctel",
+     "restaurant",
+     "sopar",
+     "dinar",
+     "lounge",
+     "carta"
+    ],
+    "en": [
+     " bar ",
+     "cocktail",
+     "restaurant",
+     "dinner",
+     "lunch",
+     "lounge",
+     "menu"
+    ],
+    "fr": [
+     " bar ",
+     "cocktail",
+     "restaurant",
+     "diner",
+     "lounge",
+     "carte"
+    ]
+   },
+   "a": {
+    "es": "Tiene un Lounge & Cocktail Bar, abierto también al público, con una carta de tés, cafés y cócteles y una selección de ensaladas, sándwiches, chapatas y platos variados. Su lista de servicios incluye además un restaurante.",
+    "ca": "Té un Lounge & Cocktail Bar, obert també al públic, amb una carta de tes, cafès i còctels i una selecció d'amanides, entrepans, xapates i plats variats. La seva llista de serveis inclou a més un restaurant.",
+    "en": "It has a Lounge & Cocktail Bar, also open to the public, with a menu of teas, coffees and cocktails and a selection of salads, sandwiches, chapatas and varied dishes. Its list of services also includes a restaurant.",
+    "fr": "Il dispose d'un Lounge & Cocktail Bar, ouvert aussi au public, avec une carte de thés, cafés et cocktails et une sélection de salades, sandwichs, chapatas et plats variés. Sa liste de services comprend aussi un restaurant."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelgareus.com/lounge-cocktail-bar/",
+     "quote": "Se accede al Lounge & Cocktail Bar por la entrada principal del Boutique Hotel Gareus y está abierto al público en general."
+    },
+    {
+     "url": "https://www.hotelgareus.com/lounge-cocktail-bar/",
+     "quote": "degustando una cuidada carta de tés, cafés, o algún que otro cocktail"
+    },
+    {
+     "url": "https://www.hotelgareus.com/lounge-cocktail-bar/",
+     "quote": "una delicada selección de ensaladas, sándwiches, chapatas y platos variados"
+    },
+    {
+     "url": "https://www.hotelgareus.com/servicios/",
+     "quote": "Lounge & Cocktail Bar Restaurante Salas de reuniones y salón para eventos"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "eventos",
+   "keys": {
+    "es": [
+     "evento",
+     "salon",
+     "boda",
+     "reunion",
+     "comunion",
+     "bautizo",
+     "banquete"
+    ],
+    "ca": [
+     "esdeveniment",
+     "salo",
+     "boda",
+     "reunio",
+     "comunio",
+     "bateig",
+     "banquet"
+    ],
+    "en": [
+     "event",
+     "function room",
+     "wedding",
+     "meeting",
+     "communion",
+     "christening",
+     "banquet"
+    ],
+    "fr": [
+     "evenement",
+     "salle",
+     "mariage",
+     "reunion",
+     "communion",
+     "bapteme",
+     "banquet"
+    ]
+   },
+   "a": {
+    "es": "Tiene el Salón Gareus para comidas de hasta 100 personas, un comedor privado para grupos de hasta doce personas y Junior Suites que pueden usarse para reuniones de trabajo de hasta catorce personas.",
+    "ca": "Té el Salón Gareus per a àpats de fins a 100 persones, un menjador privat per a grups de fins a dotze persones i Junior Suites que es poden fer servir per a reunions de treball de fins a catorze persones.",
+    "en": "It has the Salón Gareus for meals of up to 100 people, a private dining room for groups of up to twelve people and Junior Suites that can be used for work meetings of up to fourteen people.",
+    "fr": "Il dispose du Salón Gareus pour des repas jusqu'à 100 personnes, d'une salle à manger privée pour des groupes jusqu'à douze personnes et de Junior Suites utilisables pour des réunions de travail jusqu'à quatorze personnes."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelgareus.com/salones-eventos/",
+     "quote": "En nuestro Salón Gareus podemos celebrar comidas de hasta 100 personas"
+    },
+    {
+     "url": "https://www.hotelgareus.com/salones-eventos/",
+     "quote": "comedor privado, para grupos de hasta doce personas"
+    },
+    {
+     "url": "https://www.hotelgareus.com/salones-eventos/",
+     "quote": "Para reuniones de trabajo de hasta catorce personas, ponemos a su disposición nuestras Junior Suites"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "historia",
+   "keys": {
+    "es": [
+     "historia",
+     "edificio",
+     "art deco",
+     "2009",
+     "centenario",
+     "boutique"
+    ],
+    "ca": [
+     "historia",
+     "edifici",
+     "art deco",
+     "2009",
+     "centenari",
+     "boutique"
+    ],
+    "en": [
+     "history",
+     "building",
+     "art deco",
+     "2009",
+     "century old",
+     "boutique"
+    ],
+    "fr": [
+     "histoire",
+     "immeuble",
+     "batiment",
+     "art deco",
+     "2009",
+     "centenaire",
+     "boutique"
+    ]
+   },
+   "a": {
+    "es": "Su web lo describe como un pequeño gran hotel abierto en 2009 en pleno corazón de Valladolid, en un edificio centenario de estilo Art-Decó totalmente restaurado y reconvertido en hotel.",
+    "ca": "La seva web el descriu com un petit gran hotel obert el 2009 en ple cor de Valladolid, en un edifici centenari d'estil Art Déco totalment restaurat i reconvertit en hotel.",
+    "en": "Its website describes it as a small great hotel opened in 2009 in the heart of Valladolid, in a century-old Art Deco building that was fully restored and converted into a hotel.",
+    "fr": "Son site le décrit comme un petit grand hôtel ouvert en 2009 en plein cœur de Valladolid, dans un immeuble centenaire de style Art déco entièrement restauré et reconverti en hôtel."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelgareus.com/hotel/",
+     "quote": "un pequeño gran hotel abierto en 2009, situado en pleno corazón de Valladolid"
+    },
+    {
+     "url": "https://www.hotelgareus.com/hotel/",
+     "quote": "edificio centenario, de estilo Art-Decó, totalmente restaurado y reconvertido en Hotel"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirmame",
+     "oferta",
+     "tarifa"
+    ],
+    "ca": [
+     "reserv",
+     "disponib",
+     "lliure",
+     "confirma m",
+     "oferta",
+     "tarifa"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "free room",
+     "confirm",
+     "offer",
+     "rate"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirmez",
+     "offre",
+     "tarif"
+    ]
+   },
+   "a": {
+    "es": "Su web indica consultar disponibilidad y tarifas por teléfono (983214333) o por correo (recepcion@hotelgareus.com; también publica gareus@hotelgareus.com). Este asistente no confirma disponibilidad ni reservas.",
+    "ca": "La seva web indica consultar disponibilitat i tarifes per telèfon (983214333) o per correu (recepcion@hotelgareus.com; també publica gareus@hotelgareus.com). Aquest assistent no confirma disponibilitat ni reserves.",
+    "en": "Its website says to ask about availability and rates by phone (983214333) or email (recepcion@hotelgareus.com; it also publishes gareus@hotelgareus.com). This assistant does not confirm availability or bookings.",
+    "fr": "Son site indique de demander disponibilités et tarifs par téléphone (983214333) ou e-mail (recepcion@hotelgareus.com ; il publie aussi gareus@hotelgareus.com). Cet assistant ne confirme ni disponibilité ni réservation."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelgareus.com/ofertas/",
+     "quote": "Consulte con nosotros disponibilidad y tarifas en el 983214333 o bien por mail a recepcion@hotelgareus.com"
+    },
+    {
+     "url": "https://www.hotelgareus.com/contacto/",
+     "quote": "Email: gareus@hotelgareus.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K11",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "llamar",
+     "correo",
+     "email",
+     "contacto",
+     "contactar",
+     "fax"
+    ],
+    "ca": [
+     "telefon",
+     "trucar",
+     "correu",
+     "email",
+     "contacte",
+     "contactar",
+     "fax"
+    ],
+    "en": [
+     "phone",
+     "call",
+     "email",
+     "contact",
+     "fax"
+    ],
+    "fr": [
+     "telephone",
+     "appeler",
+     "email",
+     "contact",
+     "fax"
+    ]
+   },
+   "a": {
+    "es": "Teléfono 983 214 333; correo gareus@hotelgareus.com.",
+    "ca": "Telèfon 983 214 333; correu gareus@hotelgareus.com.",
+    "en": "Phone 983 214 333; email gareus@hotelgareus.com.",
+    "fr": "Téléphone 983 214 333 ; e-mail gareus@hotelgareus.com."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelgareus.com/contacto/",
+     "quote": "Email: gareus@hotelgareus.com"
+    },
+    {
+     "url": "https://www.hotelgareus.com/contacto/",
+     "quote": "Teléfono: 983 214 333"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K12",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "razon social",
+     "cif",
+     "nif"
+    ],
+    "ca": [
+     "titular",
+     "propietari",
+     "rao social",
+     "cif",
+     "nif"
+    ],
+    "en": [
+     "owner",
+     "legal name",
+     "cif",
+     "nif"
+    ],
+    "fr": [
+     "titulaire",
+     "proprietaire",
+     "raison sociale",
+     "cif",
+     "nif"
+    ]
+   },
+   "a": {
+    "es": "Su aviso legal indica que el dominio es propiedad de Eylo Hoteles S.L.U., B47560131, con domicilio en la calle Colmenares 2, 47004 Valladolid.",
+    "ca": "El seu avís legal indica que el domini és propietat d'Eylo Hoteles S.L.U., B47560131, amb domicili al carrer Colmenares 2, 47004 Valladolid.",
+    "en": "Its legal notice says the domain is owned by Eylo Hoteles S.L.U., B47560131, based at Calle Colmenares 2, 47004 Valladolid.",
+    "fr": "Sa mention légale indique que le domaine appartient à Eylo Hoteles S.L.U., B47560131, domiciliée calle Colmenares 2, 47004 Valladolid."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelgareus.com/aviso-legal/",
+     "quote": "El dominio www.hotelgareus.com es propiedad de Eylo Hoteles S.L.U."
+    },
+    {
+     "url": "https://www.hotelgareus.com/aviso-legal/",
+     "quote": "con domicilio en la Calle Colmenares, 2, 47004 Valladolid."
+    },
+    {
+     "url": "https://www.hotelgareus.com/aviso-legal/",
+     "quote": "Eylo Hoteles S.L.U. B47560131"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
