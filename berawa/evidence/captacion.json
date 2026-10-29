@@ -1,0 +1,30 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "hotel-gareus-valladolid",
+ "maps": {
+  "fecha": "2026-10-29T05:23:01+01:00",
+  "estado": "LEIDA",
+  "ficha": "Hotel Boutique Gareus",
+  "nota": 4.5,
+  "coincide": {
+   "tel": true,
+   "web": true
+  },
+  "url": "https://www.google.com/maps/place/Hotel+Boutique+Gareus/@41.646947,-4.726252,17z/data=!4m9!3m8!1s0xd4712b4ef55ee0f:0x46bd4a30192b05af!5m2!4m1!1i2!8m2!3d41.646947!4d-4.726252!16s%2Fg%2F1tdmg5yh",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T05:23:01+01:00",
+  "veredicto": "DUDOSA",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "EYLO HOTELES, S.L.U.",
+  "cif": "B47560131",
+  "fuente": "https://www.hotelgareus.com/aviso-legal/",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "Aviso legal de la web: el dominio es propiedad de Eylo Hoteles S.L.U. (persona jurídica); un solo hotel identificado (marca Gareus); no cadena."
+ }
+}
