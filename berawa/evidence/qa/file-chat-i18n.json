@@ -1,0 +1,458 @@
+{
+ "url": "file:///tmp/clon-hotel-gareus-valladolid/repo/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Se presenta como Boutique Hotel Gareus de cuatro estrellas. Tiene habitaciones Standard (cama Queen Size), Executive Queen Bed (más espacios"
+    },
+    {
+     "q": "¿Qué equipamiento tienen las habitaciones?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Las habitaciones tienen TV de pantalla plana, wifi gratuita, aire acondicionado y climatizador con regulador individual, caja fuerte, miniba"
+    },
+    {
+     "q": "¿Hay wifi y recepción 24 horas?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Hay wifi gratuita en todo el hotel, recepción abierta 24 horas, internet corner, biblioteca, climatización en todo el inmueble e información"
+    },
+    {
+     "q": "¿Es accesible?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí: según su web, el hotel está totalmente adaptado para personas con discapacidad y cuenta con una habitación completamente adaptada."
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Tiene parking privado (no se reserva), con acceso mediante un montacoches de amplias dimensiones con acceso directo al hotel, y está vigilad"
+    },
+    {
+     "q": "¿Dónde está el hotel?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Está en la calle Colmenares 2, 47004 Valladolid. A pie: Campo Grande, 2 minutos; Plaza España, 3; estación del AVE, 5; Plaza Mayor, 10. El a"
+    },
+    {
+     "q": "¿Hay bar o restaurante?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Tiene un Lounge & Cocktail Bar, abierto también al público, con una carta de tés, cafés y cócteles y una selección de ensaladas, sándwiches,"
+    },
+    {
+     "q": "¿Tienen salón para eventos?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Tiene el Salón Gareus para comidas de hasta 100 personas, un comedor privado para grupos de hasta doce personas y Junior Suites que pueden u"
+    },
+    {
+     "q": "¿Qué historia tiene el edificio?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Su web lo describe como un pequeño gran hotel abierto en 2009 en pleno corazón de Valladolid, en un edificio centenario de estilo Art-Decó t"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Su web indica consultar disponibilidad y tarifas por teléfono (983214333) o por correo (recepcion@hotelgareus.com; también publica gareus@ho"
+    },
+    {
+     "q": "¿Cuál es el teléfono?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Teléfono 983 214 333; correo gareus@hotelgareus.com."
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Su aviso legal indica que el dominio es propiedad de Eylo Hoteles S.L.U., B47560131, con domicilio en la calle Colmenares 2, 47004 Valladoli"
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 983 214 333 · gareus@hotelgareus.com."
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 983 214 333 · gareus@hotelgareus.com."
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 983 214 333 · gareus@hotelgareus.com."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Su web indica consultar disponibilidad y tarifas por teléfono (983214333) o por correo (recepcion@hotelgareus.com; también publica gareus@ho"
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tiene?",
+    "¿Hay parking?",
+    "¿Dónde está?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "intro_k",
+    "send",
+    "svc3",
+    "svc4",
+    "room0_n",
+    "room1_n",
+    "room2_n",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quines habitacions té?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es presenta com a Boutique Hotel Gareus de quatre estrelles. Té habitacions Standard (llit Queen Size), Executive Queen Bed (més espaioses, "
+    },
+    {
+     "q": "Quin equipament tenen les habitacions?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les habitacions tenen TV de pantalla plana, wifi gratuïta, aire condicionat i climatitzador amb regulador individual, caixa forta, minibar i"
+    },
+    {
+     "q": "Hi ha wifi i recepció 24 hores?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Hi ha wifi gratuïta a tot l'hotel, recepció oberta 24 hores, internet corner, biblioteca, climatització a tot l'immoble i informació turísti"
+    },
+    {
+     "q": "És accessible?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí: segons la seva web, l'hotel està totalment adaptat per a persones amb discapacitat i disposa d'una habitació completament adaptada."
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Té pàrquing privat (no es reserva), amb accés mitjançant un montacotxes de grans dimensions amb accés directe a l'hotel, i està vigilat per "
+    },
+    {
+     "q": "On és l'hotel?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "És al carrer Colmenares 2, 47004 Valladolid. A peu: Campo Grande, 2 minuts; Plaza España, 3; estació de l'AVE, 5; Plaza Mayor, 10. L'aeropor"
+    },
+    {
+     "q": "Hi ha bar o restaurant?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Té un Lounge & Cocktail Bar, obert també al públic, amb una carta de tes, cafès i còctels i una selecció d'amanides, entrepans, xapates i pl"
+    },
+    {
+     "q": "Teniu saló per a esdeveniments?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Té el Salón Gareus per a àpats de fins a 100 persones, un menjador privat per a grups de fins a dotze persones i Junior Suites que es poden "
+    },
+    {
+     "q": "Quina història té l'edifici?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "La seva web el descriu com un petit gran hotel obert el 2009 en ple cor de Valladolid, en un edifici centenari d'estil Art Déco totalment re"
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "La seva web indica consultar disponibilitat i tarifes per telèfon (983214333) o per correu (recepcion@hotelgareus.com; també publica gareus@"
+    },
+    {
+     "q": "Quin és el telèfon?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Telèfon 983 214 333; correu gareus@hotelgareus.com."
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "El seu avís legal indica que el domini és propietat d'Eylo Hoteles S.L.U., B47560131, amb domicili al carrer Colmenares 2, 47004 Valladolid."
+    },
+    {
+     "q": "Hi ha esmorzar?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 983 214 333 · gareus@hotelgareus.com."
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 983 214 333 · gareus@hotelgareus.com."
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 983 214 333 · gareus@hotelgareus.com."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "La seva web indica consultar disponibilitat i tarifes per telèfon (983214333) o per correu (recepcion@hotelgareus.com; també publica gareus@"
+    }
+   ],
+   "chips": [
+    "Quines habitacions té?",
+    "Hi ha pàrquing?",
+    "On és?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "svc3",
+    "room0_n",
+    "room1_n",
+    "room2_n"
+   ],
+   "chat": [
+    {
+     "q": "What rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It presents itself as the four-star Boutique Hotel Gareus. It has Standard rooms (queen-size bed), Executive Queen Bed (more spacious, with "
+    },
+    {
+     "q": "What equipment do the rooms have?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The rooms have a flat-screen TV, free wifi, air conditioning and climate control with an individual regulator, a safe, a minibar and a fully"
+    },
+    {
+     "q": "Is there wifi and 24-hour reception?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "There is free wifi throughout the hotel, reception open 24 hours, an internet corner, a library, climate control throughout the building and"
+    },
+    {
+     "q": "Is it accessible?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes: according to its website, the hotel is fully adapted for people with disabilities and has one fully adapted room."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "It has private parking (it cannot be reserved), reached by a large car lift with direct access to the hotel, and it is monitored by CCTV."
+    },
+    {
+     "q": "Where is the hotel?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "It is at Calle Colmenares 2, 47004 Valladolid. On foot: Campo Grande, 2 minutes; Plaza España, 3; AVE station, 5; Plaza Mayor, 10. Villanubl"
+    },
+    {
+     "q": "Is there a bar or restaurant?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It has a Lounge & Cocktail Bar, also open to the public, with a menu of teas, coffees and cocktails and a selection of salads, sandwiches, c"
+    },
+    {
+     "q": "Do you have an events room?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "It has the Salón Gareus for meals of up to 100 people, a private dining room for groups of up to twelve people and Junior Suites that can be"
+    },
+    {
+     "q": "What history does the building have?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Its website describes it as a small great hotel opened in 2009 in the heart of Valladolid, in a century-old Art Deco building that was fully"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Its website says to ask about availability and rates by phone (983214333) or email (recepcion@hotelgareus.com; it also publishes gareus@hote"
+    },
+    {
+     "q": "What is the phone number?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Phone 983 214 333; email gareus@hotelgareus.com."
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Its legal notice says the domain is owned by Eylo Hoteles S.L.U., B47560131, based at Calle Colmenares 2, 47004 Valladolid."
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 983 214 333 · gareus@hotelgareus.com."
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 983 214 333 · gareus@hotelgareus.com."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 983 214 333 · gareus@hotelgareus.com."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Its website says to ask about availability and rates by phone (983214333) or email (recepcion@hotelgareus.com; it also publishes gareus@hote"
+    }
+   ],
+   "chips": [
+    "What rooms does it have?",
+    "Is there parking?",
+    "Where is it?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "svc3",
+    "room0_n",
+    "room1_n",
+    "room2_n"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres propose-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il se présente comme le Boutique Hotel Gareus quatre étoiles. Il propose des chambres Standard (lit Queen Size), Executive Queen Bed (plus s"
+    },
+    {
+     "q": "Quel équipement ont les chambres ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les chambres disposent d'une TV à écran plat, du wifi gratuit, de la climatisation avec régulateur individuel, d'un coffre-fort, d'un miniba"
+    },
+    {
+     "q": "Y a-t-il du wifi et une réception 24 heures ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Il y a le wifi gratuit dans tout l'hôtel, une réception ouverte 24 heures, un internet corner, une bibliothèque, la climatisation dans tout "
+    },
+    {
+     "q": "Est-il accessible ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui : selon son site, l'hôtel est entièrement adapté aux personnes handicapées et dispose d'une chambre entièrement adaptée."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Il dispose d'un parking privé (non réservable), accessible par un monte-voitures de grandes dimensions avec accès direct à l'hôtel, et il es"
+    },
+    {
+     "q": "Où est l'hôtel ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Il se trouve calle Colmenares 2, 47004 Valladolid. À pied : Campo Grande, 2 minutes ; Plaza España, 3 ; gare AVE, 5 ; Plaza Mayor, 10. L'aér"
+    },
+    {
+     "q": "Y a-t-il un bar ou un restaurant ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Il dispose d'un Lounge & Cocktail Bar, ouvert aussi au public, avec une carte de thés, cafés et cocktails et une sélection de salades, sandw"
+    },
+    {
+     "q": "Avez-vous une salle d'événements ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Il dispose du Salón Gareus pour des repas jusqu'à 100 personnes, d'une salle à manger privée pour des groupes jusqu'à douze personnes et de "
+    },
+    {
+     "q": "Quelle histoire a l'immeuble ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Son site le décrit comme un petit grand hôtel ouvert en 2009 en plein cœur de Valladolid, dans un immeuble centenaire de style Art déco enti"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Son site indique de demander disponibilités et tarifs par téléphone (983214333) ou e-mail (recepcion@hotelgareus.com ; il publie aussi gareu"
+    },
+    {
+     "q": "Quel est le téléphone ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Téléphone 983 214 333 ; e-mail gareus@hotelgareus.com."
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Sa mention légale indique que le domaine appartient à Eylo Hoteles S.L.U., B47560131, domiciliée calle Colmenares 2, 47004 Valladolid."
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 983 214 333 · gareus@hotelgareus.com."
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 983 214 333 · gareus@hotelgareus.com."
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 983 214 333 · gareus@hotelgareus.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Son site indique de demander disponibilités et tarifs par téléphone (983214333) ou e-mail (recepcion@hotelgareus.com ; il publie aussi gareu"
+    }
+   ],
+   "chips": [
+    "Quelles chambres propose-t-il ?",
+    "Y a-t-il un parking ?",
+    "Où est-il ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
