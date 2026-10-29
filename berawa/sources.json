@@ -1,0 +1,77 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hotelgareus.com/",
+ "read_at": "2026-10-29T05:26:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hotelgareus.com/",
+   "sha256": "f03bd65f739ed9cd381bd71d43dbbe2f7e6874cd2729920034ffebd546bb3a17",
+   "chars": 1142
+  },
+  {
+   "url": "https://www.hotelgareus.com/aviso-legal/",
+   "sha256": "6844bc04dc091980a2150ed11addff39b8dda1c6a6e2e661d2db3907997ac66d",
+   "chars": 9235
+  },
+  {
+   "url": "https://www.hotelgareus.com/contacto/",
+   "sha256": "0f9da0f792c25564edc7deea6fa557f38b861d75a21751ea9669b2ca6cee1151",
+   "chars": 1142
+  },
+  {
+   "url": "https://www.hotelgareus.com/habitacion-executive-queen-bed/",
+   "sha256": "d771b2b4e2b192843475c937164bfc6cbc3bda90ab17875119764f57e83cb019",
+   "chars": 1310
+  },
+  {
+   "url": "https://www.hotelgareus.com/habitacion-executive-twin-bed/",
+   "sha256": "70f3f3201aae76362e2a75a52bfb5d5663296417aa0aab2e315767727fd61ed4",
+   "chars": 1408
+  },
+  {
+   "url": "https://www.hotelgareus.com/habitacion-junior-suite/",
+   "sha256": "84c4fbc943e97eff4c8c042f8ba3a3afcf33032a219f16094d35638798121c25",
+   "chars": 1483
+  },
+  {
+   "url": "https://www.hotelgareus.com/habitacion-standard/",
+   "sha256": "88437e7568dad3f4a885aabfd87ea4a3cccc76019cedaf0166a7e38480b04e6b",
+   "chars": 1253
+  },
+  {
+   "url": "https://www.hotelgareus.com/hotel/",
+   "sha256": "b840661b308b2839b10ddc5bd983bb7f5d275d30d3e08c47f358d712d6b06f49",
+   "chars": 2152
+  },
+  {
+   "url": "https://www.hotelgareus.com/lounge-cocktail-bar/",
+   "sha256": "2f49876ff944dcaa3bec8a83ebad8f1e271b12e75dbd91544e0e7b066f2964c4",
+   "chars": 1930
+  },
+  {
+   "url": "https://www.hotelgareus.com/ofertas/",
+   "sha256": "8031a28af3a1a3ca2ec3312e9227067fe39f30d3221dcf967bed7c4138db550e",
+   "chars": 990
+  },
+  {
+   "url": "https://www.hotelgareus.com/salones-eventos/",
+   "sha256": "bbb48a1764ce9cf053a5050506d3dd5092a7d33a4f4ec0d85abf5b5a0b323ec6",
+   "chars": 2024
+  },
+  {
+   "url": "https://www.hotelgareus.com/servicios/",
+   "sha256": "26089cb4138a95c74008f4e04f72925260b00c34c8d3649226025116cb543015",
+   "chars": 1301
+  },
+  {
+   "url": "https://www.hotelgareus.com/ubicacion/",
+   "sha256": "a60c74a789520fb441d9303fb3f25cebf6b39614005182eb3eb69be6f698caf4",
+   "chars": 1689
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hotelgareus.com/galeria-fotografica/",
+  "https://www.hotelgareus.com/informacion/"
+ ]
+}
